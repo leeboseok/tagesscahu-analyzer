@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# IDE 설정파일 (선택사항)
+.idea/
+.vscode/
+
+# 운영체제 관련 불필요한 파일
+.DS_Store
+Thumbs.db
